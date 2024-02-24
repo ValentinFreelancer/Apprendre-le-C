@@ -13,7 +13,7 @@ Le cours est divisé en plusieurs sections, couvrant les bases de la programmati
 - .....
 
 
-Ce portfolio à pour but d'évoluer  au fur et à mesure de mon apprentissage.
+Ce portfolio a pour but d'évoluer  au fur et à mesure de mon apprentissage.
 
 ## Utilisation
 
