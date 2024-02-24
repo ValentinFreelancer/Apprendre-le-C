@@ -28,7 +28,7 @@ int main(void){
     return 0;
 }
 
-// Exemple de fonction qui ne prend rien paramètre : 
+// Exemple de fonction qui ne prend rien en paramètre et qui ne retourne rien: 
 
 void bonjour(void){
     printf("Bonjour !");
