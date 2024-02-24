@@ -29,6 +29,3 @@ Ce cours est basé sur une formation vidéo que j'ai suivie. Je respecte les dro
 
 https://www.youtube.com/watch?v=90hGCMC3Chc&list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j&index=1
 
-## Contact
-
-Pour toute question ou commentaire, n'hésitez pas à me contacter par e-mail à [votre@email.com](mailto:votre@email.com) ou via mon profil GitHub.
